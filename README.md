@@ -16,7 +16,7 @@ The application was programmed with Flutter and backends using Node.js.
 
 
 ## Installation
-<a href=""><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" width="200"></img></a>
+<a href=""><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"></img></a>
 
 [//]: # (https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)
 
