@@ -21,7 +21,7 @@ The application was programmed with Flutter and backends using Node.js.
 [//]: # (https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)
 
 ## ScreenShots
- <img src="screans/pages.png" width="400"> 
+ <img src="screans/pages.png" > 
 
 
 
